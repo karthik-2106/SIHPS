@@ -70,6 +70,7 @@ By combining user convenience with educational resources and incentives, you can
      2. They discover upcoming events such as recycling drives, educational workshops, or environmental clean-up initiatives.
      3. Users can RSVP for events, join discussions, or volunteer to participate.
      4. The website fosters community engagement and encourages users to take collective action towards sustainability.
+ ![image](https://github.com/Vigneshv-23/SIHPS/assets/110780412/bddd71b6-43c3-4cc8-814b-1abe873b1db1)
 
 ## Technology Stack
 
